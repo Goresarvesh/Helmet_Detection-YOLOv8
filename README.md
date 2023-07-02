@@ -28,16 +28,18 @@ Creating a directory: !mkdir {HOME}/datasets
 •Accessing a specific project and downloading the dataset
 
 
-5) Running object detection training:
-•Setting the working directory back to HOME:       %cd {HOME}
-•Running the object detection training command:
+  5) Running object detection training:
+  •Setting the working directory back to HOME:       %cd {HOME}
+  •Running the object detection training command:
 
 
-6)Listing files and directories:
-•!ls {HOME}/runs/detect/train/
+  6)Listing files and directories:
+  
+  •!ls {HOME}/runs/detect/train/
 
-
-7)Displaying an image:
-•Setting the working directory back to HOME:
-•Displaying an image using the Image class:
+  
+  7)Displaying an image:
+  
+  •Setting the working directory back to HOME
+  •Displaying an image using the Image class
 
